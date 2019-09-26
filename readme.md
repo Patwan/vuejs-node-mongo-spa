@@ -1,6 +1,3 @@
-Live link:  https://desolate-citadel-77225.herokuapp.com/
-
-
 #  MEVN stack application in Mongo , Express, Vue and Node
 
 This simple repo shows how to create a MEVN stack single page 
@@ -8,7 +5,7 @@ application using Vuejs and Vuetify the frontend , Express framework and Nodejs 
 
 ## Live Application Link
 * Use Google Chrome browser to perform all the CRUD functionalities
-[Heroku link](https://desolate-citadel-77225.herokuapp.com/)
+* [Heroku link](https://desolate-citadel-77225.herokuapp.com/)
 
 ## Installation (frontend)
 * Clone the folder using **git clone**.
